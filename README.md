@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Shewale</h1>
-<h3 align="center">A passionate Full Stack developer Interest In Python and Salesforce</h3>
+<h3 align="center">A passionate Full Stack developer Interest In Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurshewale1&label=Profile%20views&color=0e75b6&style=flat" alt="mayurshewale1" /> </p> 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayur_shewale17" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_shewale17?logo=twitter&style=for-the-badge" alt="mayur_shewale17" /></a> </p>
 
-- 🌱 I’m currently learning **Salesforce,**
+- 🌱 I’m currently learning **React,**
 
 - 👨‍💻 All of my projects are available at [https://mayurshewale.netlify.app/](https://mayurshewale.netlify.app/)
 
